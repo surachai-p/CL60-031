@@ -11,6 +11,7 @@ namespace Hello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello computer lab B1");
+            Console.WriteLine("Hello computer lab B1-1");
             Console.ReadKey();
         }
     }
