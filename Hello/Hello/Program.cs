@@ -12,6 +12,7 @@ namespace Hello
         {
             Console.WriteLine("Hello computer lab B1");
             Console.WriteLine("Hello computer lab B1-1");
+            Console.WriteLine("Hello computer lab B1-add in master");
             Console.ReadKey();
         }
     }
